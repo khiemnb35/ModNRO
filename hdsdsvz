@@ -1,29 +1,45 @@
 --- Lỗi Của Phiên Bản ---
 - Chưa có phản hồi lỗi
-- Nếu thấy chức năng quá vip hãy donet cho khiêm qua số tài khoản
-- Momo/tsr : 0382148120
-- 3308220000026 ngân hàng Agribank
+- Nếu gặp lỗi trong quá trình sử dụng hãy "Báo Lỗi" ở Tab "License" - Tab 4
 --- Thao tác Forms ---
+* Thêm tài khoản theo lô:
+- Nhập tài khoản có kí tự 'X'
+- Nhập giá trị vào 2 ô dữ liệu
+- Ấn 'Thêm'
 * Đăng nhập nhiều tài khoản:
 - Bạn có thể chọn nhiều hàng trong danh sách sau đó ấn 'Login'
 
 --- Thao tác Game ---
 * Phím tắt:
-- A: Tự động đánh
-- T: Bật Tự Động Luyện Tập
-- M: Mở bảng đổi khu
+- Q: Tự động đánh
+- T: Mở menu tàn sát
+- U: Mở bảng đổi khu
 - I: Mở menu mặc Item nhanh
-- C: Dùng Capsule Đặc Biệt
-- B: Mở danh sách bạn bè
+- Shift I: Mở menu Bot Item
+- O: Mở menu dịch chuyển tức thời (Cải trang Yardart)
+- P: Sử dụng Porata
+- A: Mở menu thêm quái vào danh sách tàn sát
+- Shift A: Menu tùy chọn chế độ đánh khi tàn sát
+- S: Chỉnh tốc độ game tự động
+- Shift S: Mở menu Auto Skill
+- D: Tùy chọn đệ tử (Tùy chọn này cũng áp dụng sau khi dùng bông tai Porata)
+- F: Mở danh sách bạn bè
+- G: Chọn map - khu - vị trí hiện tại làm map quay lại sau khi chết
+- Shift G: Quay lại map đã chọn bằng phím 'G' (Kể cả khi bạn còn sống)
+- H: Hiện/Ẩn thông tin ngoài màn hình (Tắt từng cái)
+- Shift H: Hiện/Ẩn thông tin ngoài màn hình (Tắt nhanh)
 - J: Đến map bên trái (Không có map sẽ đến vị trí cuối cùng)
 - K: Đến map ở giữa (Không có map sẽ đến vị trí giữa map)
 - K: Đến map bên phải (Không có map sẽ đến vị trí cuối cùng)
-- S: Tự động trỏ vào boss
-- Shift P: Bật/Tắt Auto Đập Đồ
-- Shift A: Menu tùy chọn chế độ đánh khi tàn sát
+- Shift L: Mở menu Xmap - by Lã Minh Phúc
+- C: Dùng capsule nhanh (nếu có Capsule đặc biệt thì sẽ dùng capsule đặc biệt)
+- Shift C: Mở menu up Capsule kì bí
+- V: Chat tiếng việt (yêu cầu tắt Unikey hoặc phần mềm gõ có dấu)
+- B: Tự động trỏ vào boss
+- N: Tự động nhặt
+- M: Menu Mod cùi
 * Lệnh Chat: ('_' là dấu cách)
-- cheat X : X là tên nhân vật nhận capsule kì bí
-- locboss : (X là tham số) lọc hiện thông báo boss
-- kX : (X là tham số) đổi khu nhanh
-- sX : (X là tham số) tốc độ chạy
+- gdcskb_X : X là tên nhân vật nhận capsule kì bí
+- autohuy_X : X (giây) là khoảng thời gian auto hủy giao dịch (Bot Item)
+- block_X : Chặn giao dịch nếu người khi hủy quá X lần (Bot Item)
 --- Chức năng khác ---
